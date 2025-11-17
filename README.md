@@ -26,5 +26,5 @@ This tool tests TCP/HTTP connectivity to a list of domains and ports, helping ne
 
 1. Clone this repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/rodyjoe/Domain_Connectivity_Testing_Tool.git
 cd domain-connectivity-tester
