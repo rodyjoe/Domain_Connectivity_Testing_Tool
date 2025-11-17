@@ -1,0 +1,108 @@
+Domain Name,Port,Protocol,Service,Region
+app1.hybrid.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,US-1
+app1.hybrid.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,US-1
+hc-prod2.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,US-2
+uswest4-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,US West 4
+uswest5-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,US West 5
+central-eu-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,EU-1
+eucentral2-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,EU-2
+eucentral3-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,EU-3
+ca-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,CA Central
+china-prod-hc.central.arubanetworks.com.cn,443,HTTPS,Streaming Telemetry,CN North
+china2-hc.central.arubanetworks.com.cn,443,HTTPS,Streaming Telemetry,CN-2
+apac-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,AP South
+apaceast-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,AP Northeast
+apacsouth-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,AP SouthEast
+uaenorth1.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,UAE North
+app1.central.arubanetworks.com,443,HTTPS,Device Communication,US-1
+device-prod2.central.arubanetworks.com,443,HTTPS,Device Communication,US-2
+device-uswest4.central.arubanetworks.com,443,HTTPS,Device Communication,US West 4
+device-uswest5.central.arubanetworks.com,443,HTTPS,Device Communication,US West 5
+device-eu.central.arubanetworks.com,443,HTTPS,Device Communication,EU-1
+device-eucentral2.central.arubanetworks.com,443,HTTPS,Device Communication,EU-2
+device-eucentral3.central.arubanetworks.com,443,HTTPS,Device Communication,EU-3
+device-ca.central.arubanetworks.com,443,HTTPS,Device Communication,CA Central
+device.central.arubanetworks.com.cn,443,HTTPS,Device Communication,CN North
+device-china2.central.arubanetworks.com.cn,443,HTTPS,Device Communication,CN-2
+app1-ap.central.arubanetworks.com,443,HTTPS,Device Communication,AP South
+device-apaceast.central.arubanetworks.com,443,HTTPS,Device Communication,AP Northeast
+device-apacsouth.central.arubanetworks.com,443,HTTPS,Device Communication,AP SouthEast
+device-uaenorth1.central.arubanetworks.com,443,HTTPS,Device Communication,UAE North
+device-prod-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,US-1
+device-central-prod2-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,US-2
+device-uswest4-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,US West 4
+device-uswest5-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,US West 5
+device-eu-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,EU-1
+device-eucentral2-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,EU-2
+device-eucentral3-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,EU-3
+device-ca.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,CA Central
+device-china-prod-d2.central.arubanetworks.com.cn,443,HTTPS,AOS-CX Communication,CN North
+device-china2-d2.central.arubanetworks.com.cn,443,HTTPS,AOS-CX Communication,CN-2
+device-apac-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,AP South
+device-apaceast.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,AP Northeast
+device-apacsouth.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,AP SouthEast
+device-uaenorth1-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,UAE North
+device.arubanetworks.com,443,HTTPS,Activate Communication,Global
+devices-v2.arubanetworks.com,443,HTTPS,Activate Communication,Global
+est.arubanetworks.com,443,HTTPS,Activate Communication,Global
+naw2.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,US-1
+naw2.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,US-1
+naw2-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,US-1
+nae1.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,US-2
+nae1.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,US-2
+nae1-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,US-2
+uswest4.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,US West 4
+uswest4.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,US West 4
+uswest4-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,US West 4
+naw2.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,US West 5
+naw2.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,US West 5
+naw2-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,US West 5
+euw1.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,EU-1
+euw1.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,EU-1
+euw1-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,EU-1
+euw2.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,EU-2
+euw2.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,EU-2
+euw2-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,EU-2
+euw3.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,EU-3
+euw3.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,EU-3
+euw3-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,EU-3
+ca.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,CA Central
+ca.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,CA Central
+ca-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,CA Central
+cloudguest.central.arubanetworks.com.cn,2083,TCP,Guest Access,CN North
+cloudguest.central.arubanetworks.com.cn,443,TCP,Guest Access,CN North
+cloudguest-elb.central.arubanetworks.com.cn,443,TCP,Guest Access,CN North
+naw2.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,CN-2
+naw2.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,CN-2
+naw2-elb.cloudguest-elb.central.arubanetworks.com,443,TCP,Guest Access,CN-2
+ap1.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,AP South
+ap1.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,AP South
+ap1-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,AP South
+apaceast.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,AP Northeast
+apaceast.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,AP Northeast
+apaceast-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,AP Northeast
+apacsouth.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,AP SouthEast
+apacsouth.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,AP SouthEast
+apacsouth-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,AP SouthEast
+asw1.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,UAE North
+asw1.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,UAE North
+asw1-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,UAE North
+sso.arubanetworks.com,443,TCP,Other Services,Global
+internal.central.arubanetworks.com,443,TCP,Other Services,Global
+internal2.central.arubanetworks.com,443,TCP,Other Services,Global
+pool.ntp.org,123,UDP,Other Services,Global
+activate.arubanetworks.com,443,TCP,Other Services,Global
+stun.pqm.arubanetworks.com,3478,UDP/TCP,Other Services,Global
+stun.pqm.arubanetworks.com,3479,UDP/TCP,Other Services,Global
+pqm.arubanetworks.com,4500,ICMP/UDP,Other Services,Global
+h30326.www3.hpe.com,80,TCP,Other Services,Global
+h30326.www3.hpe.com,443,TCP,Other Services,Global
+common.cloud.hpe.com/ccssvc/ccs-system-firmware-registry,80,TCP,Other Services,Global
+common.cloud.hpe.com/ccssvc/ccs-system-firmware-registry,443,TCP,Other Services,Global
+d20kce0f6gvxjn.cloudfront.net,443,TCP,Other Services,Global
+cloud.arubanetworks.com,80,TCP,Other Services,Global
+aruba.brightcloud.com,443,TCP,Other Services,Global
+bcap15-dualstack.brightcloud.com,443,TCP,Other Services,Global
+api-dualstack.bcti.brightcloud.com,443,TCP,Other Services,Global
+database-dualstack.brightcloud.com,443,TCP,Other Services,Global
+api.bcti.brightcloud.com,443,TCP,Other Services,Global
