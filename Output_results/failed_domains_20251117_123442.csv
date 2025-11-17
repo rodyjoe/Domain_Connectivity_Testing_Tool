@@ -1,0 +1,44 @@
+domain,port,protocol,service,region,dns_resolution,ip_address,connectivity_status,error_message,test_timestamp
+app1.hybrid.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,US-1,Failed,N/A,Failed,"HTTP Error: HTTPSConnectionPool(host='app1.hybrid.central.arubanetworks.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000002300188FA10>: Failed to resolve 'app1.hybrid.central.arubanetworks.com' ([Errno 11001] getaddrinfo failed)""))",2025-11-17 12:34:27
+app1.hybrid.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,US-1,Failed,N/A,Failed,"HTTP Error: HTTPSConnectionPool(host='app1.hybrid.central.arubanetworks.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000002300198CB90>: Failed to resolve 'app1.hybrid.central.arubanetworks.com' ([Errno 11001] getaddrinfo failed)""))",2025-11-17 12:34:27
+apac-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,AP South,Success,13.126.185.171,Failed,HTTP 400,2025-11-17 12:34:28
+eucentral2-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,EU-2,Success,3.66.208.73,Failed,HTTP 400,2025-11-17 12:34:28
+central-eu-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,EU-1,Success,3.120.222.224,Failed,HTTP 400,2025-11-17 12:34:28
+apaceast-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,AP Northeast,Success,52.197.196.225,Failed,HTTP 400,2025-11-17 12:34:28
+uaenorth1.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,UAE North,Failed,N/A,Failed,"HTTP Error: HTTPSConnectionPool(host='uaenorth1.central.arubanetworks.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000230018574D0>: Failed to resolve 'uaenorth1.central.arubanetworks.com' ([Errno 11001] getaddrinfo failed)""))",2025-11-17 12:34:29
+hc-prod2.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,US-2,Success,52.89.6.112,Failed,HTTP 400,2025-11-17 12:34:29
+ca-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,CA Central,Success,3.97.95.100,Failed,HTTP 400,2025-11-17 12:34:29
+eucentral3-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,EU-3,Success,18.158.18.25,Failed,HTTP 403,2025-11-17 12:34:29
+china-prod-hc.central.arubanetworks.com.cn,443,HTTPS,Streaming Telemetry,CN North,Success,140.179.61.218,Failed,HTTP 403,2025-11-17 12:34:29
+uswest4-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,US West 4,Success,54.148.162.208,Failed,HTTP 403,2025-11-17 12:34:29
+apacsouth-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,AP SouthEast,Success,54.79.54.109,Failed,HTTP 400,2025-11-17 12:34:29
+uswest5-hc.central.arubanetworks.com,443,HTTPS,Streaming Telemetry,US West 5,Success,44.234.244.71,Failed,HTTP 403,2025-11-17 12:34:29
+china2-hc.central.arubanetworks.com.cn,443,HTTPS,Streaming Telemetry,CN-2,Success,69.231.147.228,Failed,HTTP 403,2025-11-17 12:34:30
+device-prod-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,US-1,Success,52.10.204.21,Failed,HTTP 404,2025-11-17 12:34:34
+device-uswest4-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,US West 4,Success,44.228.90.242,Failed,HTTP 404,2025-11-17 12:34:34
+device-uswest5-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,US West 5,Success,35.155.231.251,Failed,HTTP 404,2025-11-17 12:34:34
+device-central-prod2-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,US-2,Success,54.148.71.30,Failed,HTTP 404,2025-11-17 12:34:34
+device-eu-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,EU-1,Success,18.196.96.131,Failed,HTTP 404,2025-11-17 12:34:34
+device-eucentral2-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,EU-2,Success,35.157.53.171,Failed,HTTP 404,2025-11-17 12:34:34
+device-apac-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,AP South,Success,13.234.169.177,Failed,HTTP 404,2025-11-17 12:34:35
+device-eucentral3-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,EU-3,Success,18.184.150.112,Failed,HTTP 404,2025-11-17 12:34:35
+device-china-prod-d2.central.arubanetworks.com.cn,443,HTTPS,AOS-CX Communication,CN North,Success,52.80.193.18,Failed,HTTP 404,2025-11-17 12:34:35
+device-china2-d2.central.arubanetworks.com.cn,443,HTTPS,AOS-CX Communication,CN-2,Success,161.189.166.47,Failed,HTTP 404,2025-11-17 12:34:35
+device-uaenorth1-d2.central.arubanetworks.com,443,HTTPS,AOS-CX Communication,UAE North,Success,20.46.158.8,Failed,HTTP 404,2025-11-17 12:34:35
+est.arubanetworks.com,443,HTTPS,Activate Communication,Global,Success,104.36.248.164,Failed,HTTP 404,2025-11-17 12:34:36
+devices-v2.arubanetworks.com,443,HTTPS,Activate Communication,Global,Success,100.21.156.86,Failed,HTTP 400,2025-11-17 12:34:36
+euw2.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,EU-2,Failed,N/A,Failed,DNS Resolution Failed: [Errno 11001] getaddrinfo failed,2025-11-17 12:34:36
+euw2.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,EU-2,Failed,N/A,Failed,DNS Resolution Failed: [Errno 11001] getaddrinfo failed,2025-11-17 12:34:36
+device.arubanetworks.com,443,HTTPS,Activate Communication,Global,Success,35.80.154.106,Failed,HTTP 404,2025-11-17 12:34:36
+euw2-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,EU-2,Failed,N/A,Failed,DNS Resolution Failed: [Errno 11001] getaddrinfo failed,2025-11-17 12:34:36
+euw3.cloudguest.central.arubanetworks.com,2083,TCP,Guest Access,EU-3,Failed,N/A,Failed,DNS Resolution Failed: [Errno 11001] getaddrinfo failed,2025-11-17 12:34:36
+euw3.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,EU-3,Failed,N/A,Failed,DNS Resolution Failed: [Errno 11001] getaddrinfo failed,2025-11-17 12:34:36
+euw3-elb.cloudguest.central.arubanetworks.com,443,TCP,Guest Access,EU-3,Failed,N/A,Failed,DNS Resolution Failed: [Errno 11001] getaddrinfo failed,2025-11-17 12:34:36
+naw2-elb.cloudguest-elb.central.arubanetworks.com,443,TCP,Guest Access,CN-2,Failed,N/A,Failed,DNS Resolution Failed: [Errno 11001] getaddrinfo failed,2025-11-17 12:34:36
+cloud.arubanetworks.com,80,TCP,Other Services,Global,Failed,N/A,Failed,DNS Resolution Failed: [Errno 11001] getaddrinfo failed,2025-11-17 12:34:37
+stun.pqm.arubanetworks.com,3478,UDP/TCP,Other Services,Global,Success,13.234.63.232,Failed,TCP Error: 10061,2025-11-17 12:34:39
+stun.pqm.arubanetworks.com,3479,UDP/TCP,Other Services,Global,Success,13.234.63.232,Failed,TCP Error: 10061,2025-11-17 12:34:39
+cloudguest.central.arubanetworks.com.cn,443,TCP,Guest Access,CN North,Success,54.222.215.110,Failed,TCP Error: 10035,2025-11-17 12:34:41
+cloudguest.central.arubanetworks.com.cn,2083,TCP,Guest Access,CN North,Success,54.222.215.110,Failed,TCP Error: 10035,2025-11-17 12:34:41
+cloudguest-elb.central.arubanetworks.com.cn,443,TCP,Guest Access,CN North,Success,10.66.130.115,Failed,TCP Error: 10035,2025-11-17 12:34:41
+pqm.arubanetworks.com,4500,ICMP/UDP,Other Services,Global,Success,13.234.63.232,Failed,TCP Error: 10035,2025-11-17 12:34:42
